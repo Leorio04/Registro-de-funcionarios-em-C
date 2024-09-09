@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1667779019 source:c:\users\wwwjj\onedrive\documentos\Área de trabalho\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<Windows.h>
+
+1667854704 source:d:\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<Windows.h>
+
+1668553406 source:e:\teste1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<Windows.h>
+
+1669775222 source:e:\projeto_pim2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<Windows.h>
+
+1669775222 source:d:\projeto_pim2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<Windows.h>
+
+1669760493 source:c:\users\wwwjj\onedrive\documentos\Área de trabalho\projeto_pim2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<Windows.h>
+

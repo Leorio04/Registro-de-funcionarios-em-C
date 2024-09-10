@@ -1,2 +1,0 @@
-cliente /Nome Completo:leonardo /Email:leonardo@gmail /Data de Nascimento:123456 /CPF:45177602869 /Telefone:13991214599
-funcionario /Nome Completo:arthur /Email:arthur@gmail.com /Data de Nascimento:345678 /CPF:4465837 /Telefone:1399265679
